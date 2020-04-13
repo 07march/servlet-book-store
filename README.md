@@ -8,6 +8,6 @@ Java stack:
   
 Run:
   clone this repository -->
-  open project in IDEA IDE
+  open project in IDEA IDE.
   
   
