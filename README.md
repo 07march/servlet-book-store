@@ -5,10 +5,9 @@ Java stack:
   JSTL
   Maven
   Postgres
-Description:
   
 Run:
-  Clone this repository
-  Open project in IDEA IDE
+  clone this repository -->
+  open project in IDEA IDE
   
   
